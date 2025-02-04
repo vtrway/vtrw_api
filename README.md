@@ -32,7 +32,8 @@ VTRW (Virtual To Reality Way) API provides detailed information about the VTRW t
         "Telegram": "https://t.me/vtrwcoin",
         "Website": "https://www.vtrway.com/"
     }
-}# VTRW API 🚀
+{
+# VTRW API 🚀
 VTRW (Virtual To Reality Way) API provides detailed information about the VTRW token, including price, supply, contract details, and official documentation. This API is built using FastAPI.
 
 ## 🌟 Features
@@ -45,7 +46,7 @@ VTRW (Virtual To Reality Way) API provides detailed information about the VTRW t
 ## 📌 How to Use the API
 VTRW API provides public endpoints for fetching token-related data.
 
-1️⃣ **Install Dependencies**  
+### 1️⃣ Install Dependencies  
 If you are running the API locally, install required packages:  
 ```sh
 pip install fastapi uvicorn
@@ -72,4 +73,3 @@ uvicorn main:app --reload
         "Website": "https://www.vtrway.com/"
     }
 }
-
