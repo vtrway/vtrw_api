@@ -44,3 +44,6 @@ Returns the current price of VTRW.
 Bu adımlardan sonra README dosyası **tüm bilgileri içeriyor olacak** ve projen açık ve anlaşılır hale gelecek.
 
 **Tamamladığında "Oldu" de, kontrol edip bir sonraki adıma geçelim!** 🚀🔥
+## 📜 Whitepaper
+Daha fazla bilgi için resmi whitepaper'ımıza göz atabilirsiniz:  
+[Whitepaper-VTRW-Coin.pdf](https://www.vtrway.com/Whitepaper-VTRW-Coin.pdf)
