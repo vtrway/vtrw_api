@@ -28,12 +28,3 @@ Returns a welcome message.
     "Contract Address": "0xac6d043bb8ac862aac265eebdc0287c47db98c0a",
     "Explorer Link": "https://bscscan.com/token/0xac6d043bb8ac862aac265eebdc0287c47db98c0a"
 }
-Whitepaper
-For more details, you can refer to our official whitepaper:
-Whitepaper-VTRW-Coin.pdf
-
-Contact
-Email: info@vtrway.com
-Twitter: VTRWay Twitter
-Telegram: VTRW Telegram
-Website: www.vtrway.com
