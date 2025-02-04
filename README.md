@@ -31,7 +31,7 @@ VTRW (Virtual To Reality Way) API provides detailed information about the VTRW t
         "Twitter": "https://twitter.com/VTRWay",
         "Telegram": "https://t.me/vtrwcoin",
         "Website": "https://www.vtrway.com/"
-    }
+    },
 # VTRW API 🚀
 
 VTRW (Virtual To Reality Way) API provides detailed information about the VTRW token, including price, supply, contract details, and official documentation. This API is built using FastAPI.
